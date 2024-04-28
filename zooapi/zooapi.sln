@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zooapi", "zooapi.csproj", "{27014285-1615-4955-8A89-B7779C61D68C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppZoo", "..\WebAppZoo\WebAppZoo.csproj", "{29F4DB3A-0231-4971-8612-93ABE0A7B8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooAppWin", "..\ZooAppWin\ZooAppWin.csproj", "{0D2178E4-1F33-427E-ABEB-9366B1717F99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService1", "..\WorkerService1\WorkerService1.csproj", "{F7A037B2-64E4-49C5-ACEB-68CEDB45BBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27014285-1615-4955-8A89-B7779C61D68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27014285-1615-4955-8A89-B7779C61D68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27014285-1615-4955-8A89-B7779C61D68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27014285-1615-4955-8A89-B7779C61D68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F4DB3A-0231-4971-8612-93ABE0A7B8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F4DB3A-0231-4971-8612-93ABE0A7B8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F4DB3A-0231-4971-8612-93ABE0A7B8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F4DB3A-0231-4971-8612-93ABE0A7B8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2178E4-1F33-427E-ABEB-9366B1717F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2178E4-1F33-427E-ABEB-9366B1717F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2178E4-1F33-427E-ABEB-9366B1717F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2178E4-1F33-427E-ABEB-9366B1717F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A037B2-64E4-49C5-ACEB-68CEDB45BBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A037B2-64E4-49C5-ACEB-68CEDB45BBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A037B2-64E4-49C5-ACEB-68CEDB45BBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A037B2-64E4-49C5-ACEB-68CEDB45BBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {125B2327-9D6C-48BF-866A-CFDD42B13674}
+	EndGlobalSection
+EndGlobal
