@@ -18,7 +18,7 @@ namespace WorkerService1.Services
             _smtpClient = new SmtpClient("smtp.gmail.com")
             {
                 Port = 587,
-                Credentials = new NetworkCredential("gkpe24@gmail.com", "kkoj lpdu crbu tmxj"),
+                Credentials = new NetworkCredential("gkpe24@gmail.com", "test"),
                 EnableSsl = true,
             };
             _logger = logger;
